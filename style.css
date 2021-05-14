@@ -1,0 +1,42 @@
+.middle{
+    padding-top: 142px;
+    margin-right: 60px;
+}
+.container{
+    margin: 100
+    padding: 120px;
+    margin-left: 470px;
+    padding-bottom: 50px;
+    display: flex;
+    box-sizing: content-box;
+    width: 30%;
+    height: 70%;
+    background: white;
+    border-radius: 45px;
+    justify-content: center;
+}
+.image{
+    margin-top: -1px;
+    padding-top: 50px;
+}
+.one{
+    padding-top: 50px;
+}
+.two{
+    padding-top: 10px;
+    
+}
+.checkbox{
+    padding-top: 10px;
+
+}
+.log-in{
+    border-color: #FFA300;
+    background: #FFA300;
+    margin-left: 110px;
+    margin-top: 10px;
+    text-align: center;
+}
+#Remember_me{
+    margin-left: 16px;
+}
